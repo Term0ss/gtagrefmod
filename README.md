@@ -6,7 +6,9 @@
 
 To make it work you'll need to install Utilla in Monke Mod Manager.
 
-[![Status](https://img.shields.io/badge/Build-PreRelease-orange.svg)](https://github.com/Term0ss/gtagrefmod/releases/tag/v0.0.1-alpha.1)
+![GitHub Release](https://img.shields.io/github/v/release/Term0ss/gtagrefmod)
+
+![GitHub Tag](https://img.shields.io/github/v/tag/Term0ss/gtagrefmod)
 
 
 ## Features
