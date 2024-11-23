@@ -21,7 +21,7 @@ To make it work you'll need to install Utilla in Monke Mod Manager.
 
 ## Installation
 
-1. Install the Utilla and BepInEx with [Monke Mod Manager](https://github.com/DeadlyKitten/MonkeModManager/releases/tag/1.3.1)
+1. Install the Utilla and BepInEx with [Monke Mod Manager](https://github.com/BzzzThe18th/MonkeModManager/releases/tag/2.0.3)
 
 2. Download the latest release of my [mod](https://github.com/Term0ss/gtagrefmod/releases)
 
