@@ -8,8 +8,6 @@ To make it work you'll need to install Utilla in Monke Mod Manager.
 
 [![Status](https://img.shields.io/badge/Build-PreRelease-orange.svg)](https://github.com/Term0ss/gtagrefmod/releases/tag/v0.0.1-alpha.1)
 
-![GitHub tag status](https://img.shields.io/github/checks-status/Term0ss/gtagrefmod/v0.0.1-alpha.1)
-
 
 ## Features
 
