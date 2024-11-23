@@ -4,9 +4,11 @@
 
 # Referee mod for gorilla tag
 
-To make it work you'll need to install Utilla in Monke Mod Manager.
+![GitHub Release](https://img.shields.io/github/v/release/Term0ss/gtagrefmod?include_prereleases&style=for-the-badge)
 
-![GitHub Release](https://img.shields.io/github/v/release/Term0ss/gtagrefmod?include_prereleases&style=for-the-badge&cacheSeconds=10)
+To make it work you'll need to install Newtilla in Monke Mod Manager.
+
+![Status](https://img.shields.io/badge/Status-Broken-ff0000?style=for-the-badge)
 
 
 
@@ -19,7 +21,7 @@ To make it work you'll need to install Utilla in Monke Mod Manager.
 
 ## Color Reference
 
-| Color             | Hex                                                                |
+| Color             | Gorilla tag Color Code                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Orange Team | ![#ff8b00](https://via.placeholder.com/10/ff8b00?text=+) 9,5,0 |
 | Blue Team | ![#0088ff](https://via.placeholder.com/10/0088ff?text=+) 0,4,9 |
@@ -28,7 +30,9 @@ To make it work you'll need to install Utilla in Monke Mod Manager.
 
 ## Installation
 
-1. Install the Utilla and BepInEx with [Monke Mod Manager](https://github.com/DeadlyKitten/MonkeModManager/releases/tag/1.3.1)
+1. Install the [Newtilla](https://github.com/Loafiat/Newtilla/releases/) and BepInEx with [Monke Mod Manager](https://github.com/BzzzThe18th/MonkeModManager/releases)
+
+1.1. Id recommend installing Utilla too from [Monke Mod Manager](https://github.com/BzzzThe18th/MonkeModManager/releases)
 
 2. Download the latest release of my [mod](https://github.com/Term0ss/gtagrefmod/releases)
 
