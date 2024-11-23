@@ -5,9 +5,9 @@ To make it work you'll need to install Utilla in Monke Mod Manager.
 
 ## Features
 
-- Tag Self
-- UnTag
-- Game Control GUI
+- ~~Tag Self~~
+- ~~UnTag~~
+- Game ~~Control~~ GUI
 
 
 ## Color Reference
