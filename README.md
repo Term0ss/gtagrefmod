@@ -47,6 +47,11 @@ At this point? I don't really know. Maybe around 3 months.
 
 I wont post it right now, because i don't want anyone to download it right now.
 
+#### Where is the access key file located?
+
+The access key file is located in you main game directory.
+
+For Steam: \Program Files (x86)\Steam\steamapps\common\Gorilla Tag
 
 ## Authors
 
