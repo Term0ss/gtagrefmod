@@ -4,11 +4,11 @@
 
 # Referee mod for gorilla tag
 
-![GitHub Release](https://img.shields.io/github/v/release/Term0ss/gtagrefmod?include_prereleases&style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FTerm0ss%2Fgtagrefmod%2Freleases%2Ftag%2Fv0.0.1-alpha.1)
+![GitHub Release](https://img.shields.io/github/v/release/Term0ss/gtagrefmod?include_prereleases&style=for-the-badge)
 
-To make it work you'll need to install Newtilla.
+To make it work you'll need to install Newtilla in Monke Mod Manager.
 
-![Status](https://img.shields.io/badge/Status-Broken-ff0000?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Partially%20Functional-ff6c00?style=for-the-badge)
 
 
 
@@ -47,11 +47,6 @@ At this point? I don't really know. Maybe around 3 months.
 
 I wont post it right now, because i don't want anyone to download it right now.
 
-#### Where is the access key file located?
-
-The access key file is located in you main game directory.
-
-For Steam: \Program Files (x86)\Steam\steamapps\common\Gorilla Tag
 
 ## Authors
 
