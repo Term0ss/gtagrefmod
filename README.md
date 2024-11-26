@@ -6,7 +6,7 @@
 
 ![GitHub Release](https://img.shields.io/github/v/release/Term0ss/gtagrefmod?include_prereleases&style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FTerm0ss%2Fgtagrefmod%2Freleases%2Ftag%2Fv0.0.1-alpha.1)
 
-To make it work you'll need to install Newtilla in Monke Mod Manager.
+To make it work you'll need to install Newtilla.
 
 ![Status](https://img.shields.io/badge/Status-Broken-ff0000?style=for-the-badge)
 
