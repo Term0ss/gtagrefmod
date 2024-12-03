@@ -25,7 +25,6 @@ To make it work you'll need to install Newtilla in Monke Mod Manager.
 | ----------------- | ------------------------------------------------------------------ |
 | Orange Team | ![#ff8b00](https://via.placeholder.com/10/ff8b00?text=+) 9,5,0 |
 | Blue Team | ![#0088ff](https://via.placeholder.com/10/0088ff?text=+) 0,4,9 |
-| Referee | ![#00000](https://via.placeholder.com/10/000000?text=+) 0,0,0 |
 
 
 ## Installation
