@@ -1,5 +1,5 @@
 
-![Logo](https://cdn.discordapp.com/attachments/947070729642450954/1309885655798779974/goril_tag_ref.png?ex=67433594&is=6741e414&hm=d7cc99a71ee62c2776b907570c99972a8376e3b54bdc839f93a7c2e324cc8823&)
+![Logo](https://cdn.discordapp.com/attachments/1274029245064151201/1313606375578013696/goril_tag_ref.png?ex=6750bec5&is=674f6d45&hm=bc0a1f52dc874c807b69d81f63bb4b48e2c47293d0496323fb16936ebec5ace3&)
 
 
 # Referee mod for gorilla tag
